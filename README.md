@@ -80,7 +80,7 @@ Class Prediction (Tumor Stroma vs Invasion Front)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cross-dim-transfer.git
+git clone https://github.com/zulqarnainalipk/Cross-Dimensional-Learning-for-Data-Efficient-Medical-Imaging.git
 cd cross-dim-transfer
 ```
 
