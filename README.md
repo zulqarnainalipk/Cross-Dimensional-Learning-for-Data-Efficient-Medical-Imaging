@@ -583,4 +583,4 @@ If you use this code or framework in your research, please cite:
 
 ---
 
-For questions or issues, please open a GitHub issue or contact the maintainers.
+For questions or issues, please open a GitHub issue or contact the Zulqar445ali@gmail.com.
