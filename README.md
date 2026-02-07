@@ -1,5 +1,5 @@
 # Cross-Dimensional Knowledge Transfer for Data-Efficient Medical Image Analysis
-![Cross-Dimensional Knowledge Transfer](/data/CDL.png)
+https://github.com/zulqarnainalipk/Cross-Dimensional-Learning-for-Data-Efficient-Medical-Imaging/blob/main/data/CDL.png
 
 A novel framework for cross-dimensional knowledge transfer from 3D CT volumes to 2D pathology images, enabling effective few-shot cancer classification with limited labeled data. This project integrates Google's Health AI Developer Foundations (HAI-DEF) models with a custom cross-dimensional attention bridge for medical image analysis.
 
